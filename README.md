@@ -7,11 +7,11 @@ Install [docker](https://docs.docker.com/engine/installation/) (at least version
 
 After Docker is setup, clone the source code in this repo:
 
-`git clone https://github.com/ngiccorddemo/cordbuild2017.git`
+`https://github.com/sidtechnical/core-in-a-box.git`
 
 Then open 2 additional terminals and change directory to the demo folder in all of them:
 
-`cd cordbuild2017`
+`cd core-in-a-box`
 
 __NOTE:__ Do this only if you are running this demo in __virtualbox__ directly or indirectly:
 
