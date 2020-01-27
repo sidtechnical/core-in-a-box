@@ -103,3 +103,7 @@ From the Traffic terminal, type:
 and then type:
 
 `docker-compose -p epc down`
+
+Due credits
+============
+This repo is a fork of the [interactive demo of the Next Generation Infrastructure Core (NGIC) reference implementation](https://software.intel.com/en-us/articles/an-interactive-demo-of-the-next-generation-infrastructure-core-reference-implementation) as a collaboration between Intel and Open Networking Foundation.
